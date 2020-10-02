@@ -1,3 +1,3 @@
 # LectureNote
 CS Project 
-This app helps students in remote learning and collaboration
+This app is helping students in remote areas in learning and collaboration.
